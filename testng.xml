@@ -1,0 +1,15 @@
+<suite name="Olx">
+  
+    
+  <suite-files>
+  
+  <!--   -->
+     
+    
+    <suite-file path="./Suite_joinUs.xml"/>
+   <suite-file path="./Suite_submitAdd.xml"/>
+   
+   <suite-file path="./Suite_searchAdd.xml"/> 
+   
+  </suite-files>
+</suite>

@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="submitAdd">
+
+<test name="mobileAdd">
+    <classes>
+        <class name="com.olx.submitAdd.TestCase_mobileAdd" ></class>  
+    </classes>
+</test>
+<test name="carAdd">
+    <classes>
+        <class name="com.olx.submitAdd.TestCase_carAdd" ></class>  
+    </classes>
+</test>
+
+</suite>
+

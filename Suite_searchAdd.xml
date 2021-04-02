@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="joinUs">
+
+<test name="forEngineer">
+    <classes>
+        <class name="com.olx.joinUs.TestCase_forEngineer" ></class>  
+    </classes>
+</test>
+
+
+</suite>
+

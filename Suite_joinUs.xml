@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="seachAdd">
+
+<test name="mobileAdd">
+    <classes>
+        <class name="com.olx.searchAdd.TestCase_mobileAdd" ></class>  
+    </classes>
+</test>
+<test name="contactUs">
+    <classes>
+        <class name="com.olx.searchAdd.TestCase_contactUs" ></class>  
+    </classes>
+</test>
+
+</suite>
+

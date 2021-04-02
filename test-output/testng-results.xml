@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13395" started-at="2017-04-23T10:22:39Z" finished-at="2017-04-23T10:22:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13395" started-at="2017-04-23T10:22:39Z" finished-at="2017-04-23T10:22:53Z">
+      <class name="com.olx.joinUs.TestCase_contactUs">
+        <test-method status="PASS" signature="checkSuiteSkip()[pri:0, instance:com.olx.joinUs.TestCase_contactUs@72d818d1]" name="checkSuiteSkip" is-config="true" duration-ms="977" started-at="2017-04-23T15:52:38Z" finished-at="2017-04-23T15:52:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteSkip -->
+        <test-method status="PASS" signature="checkTestSkip()[pri:0, instance:com.olx.joinUs.TestCase_contactUs@72d818d1]" name="checkTestSkip" is-config="true" duration-ms="4" started-at="2017-04-23T15:52:39Z" finished-at="2017-04-23T15:52:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="PASS" signature="testData(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.olx.joinUs.TestCase_contactUs@72d818d1]" test-instance-name="nonAutomatedBuyFlow (Firefox)" name="testData" is-config="true" duration-ms="1" started-at="2017-04-23T15:52:39Z" finished-at="2017-04-23T15:52:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.olx.joinUs.TestCase_contactUs.nonAutomatedBuyFlow(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@20a14b55]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="nonAutomatedBuyFlow(java.lang.String, java.lang.String)[pri:0, instance:com.olx.joinUs.TestCase_contactUs@72d818d1]" test-instance-name="nonAutomatedBuyFlow (Firefox)" name="nonAutomatedBuyFlow" duration-ms="12947" started-at="2017-04-23T15:52:39Z" data-provider="getTestData" finished-at="2017-04-23T15:52:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://www.joinolx.com/contact]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nonAutomatedBuyFlow -->
+        <test-method status="PASS" signature="reportDataSetResult()[pri:0, instance:com.olx.joinUs.TestCase_contactUs@72d818d1]" test-instance-name="nonAutomatedBuyFlow (Firefox)" name="reportDataSetResult" is-config="true" duration-ms="313" started-at="2017-04-23T15:52:52Z" finished-at="2017-04-23T15:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="PASS" signature="reportTestResult()[pri:0, instance:com.olx.joinUs.TestCase_contactUs@72d818d1]" name="reportTestResult" is-config="true" duration-ms="108" started-at="2017-04-23T15:52:52Z" finished-at="2017-04-23T15:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTestResult -->
+      </class> <!-- com.olx.joinUs.TestCase_contactUs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
